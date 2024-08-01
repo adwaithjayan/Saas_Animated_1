@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Saas_Animated_1/static/css/main.6bdc0b18.css",
+    "main.js": "/Saas_Animated_1/static/js/main.ed4355ba.js",
+    "static/js/453.57a465a2.chunk.js": "/Saas_Animated_1/static/js/453.57a465a2.chunk.js",
+    "static/media/Visual.png": "/Saas_Animated_1/static/media/Visual.edb46673b2cc3f5ad3d0.png",
+    "static/media/Product Image.png": "/Saas_Animated_1/static/media/Product Image.47bf061243367b18285b.png",
+    "static/media/helix2 1.png": "/Saas_Animated_1/static/media/helix2 1.5e7fcd511b4506e10c2f.png",
+    "static/media/shape.png": "/Saas_Animated_1/static/media/shape.f7127471ef8c92d7df49.png",
+    "static/media/cube-helix 1.png": "/Saas_Animated_1/static/media/cube-helix 1.112458dacf4c5bff0496.png",
+    "static/media/emojistar 1.png": "/Saas_Animated_1/static/media/emojistar 1.b25acb1012cf2ca882f6.png",
+    "static/media/torus 1.png": "/Saas_Animated_1/static/media/torus 1.fb69891a15cf7f784609.png",
+    "static/media/cylinder 1.png": "/Saas_Animated_1/static/media/cylinder 1.47f751e240dde7be2c09.png",
+    "static/media/half-torus 1.png": "/Saas_Animated_1/static/media/half-torus 1.76cae9f84a43478066b8.png",
+    "static/media/pyramid 1.png": "/Saas_Animated_1/static/media/pyramid 1.896c85572a2933bb2b58.png",
+    "static/media/mark.svg": "/Saas_Animated_1/static/media/mark.648c02cf5afbd1242c0a21a8ec12b8eb.svg",
+    "static/media/insta.svg": "/Saas_Animated_1/static/media/insta.3216f9965cbf45094be33c68793c7d6e.svg",
+    "static/media/leaf.svg": "/Saas_Animated_1/static/media/leaf.9f0e849edc9b01c4d4163bc9f3f1914a.svg",
+    "static/media/bell.svg": "/Saas_Animated_1/static/media/bell.bd22726ffa5d81666c38df0183492ca8.svg",
+    "static/media/lock.svg": "/Saas_Animated_1/static/media/lock.d7b0acc024157616da24b38ae4a15360.svg",
+    "static/media/yt.svg": "/Saas_Animated_1/static/media/yt.6962f5fbd4a71c1c7afa42247af803f3.svg",
+    "static/media/pin.svg": "/Saas_Animated_1/static/media/pin.43cc5ff10493e62b5cbea94fc8d38fba.svg",
+    "index.html": "/Saas_Animated_1/index.html",
+    "static/media/link.svg": "/Saas_Animated_1/static/media/link.6a1958226b5ead508bb600cedb64d057.svg",
+    "static/media/x.svg": "/Saas_Animated_1/static/media/x.3b7ad770b3a8aa076f856c3bd0b98a26.svg",
+    "main.6bdc0b18.css.map": "/Saas_Animated_1/static/css/main.6bdc0b18.css.map",
+    "main.ed4355ba.js.map": "/Saas_Animated_1/static/js/main.ed4355ba.js.map",
+    "453.57a465a2.chunk.js.map": "/Saas_Animated_1/static/js/453.57a465a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bdc0b18.css",
+    "static/js/main.ed4355ba.js"
+  ]
+}
