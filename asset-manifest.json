@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Saas_Animated_1/static/css/main.6bdc0b18.css",
-    "main.js": "/Saas_Animated_1/static/js/main.ed4355ba.js",
+    "main.css": "/Saas_Animated_1/static/css/main.a8602568.css",
+    "main.js": "/Saas_Animated_1/static/js/main.92b25986.js",
     "static/js/453.57a465a2.chunk.js": "/Saas_Animated_1/static/js/453.57a465a2.chunk.js",
     "static/media/Visual.png": "/Saas_Animated_1/static/media/Visual.edb46673b2cc3f5ad3d0.png",
     "static/media/Product Image.png": "/Saas_Animated_1/static/media/Product Image.47bf061243367b18285b.png",
@@ -23,12 +23,12 @@
     "index.html": "/Saas_Animated_1/index.html",
     "static/media/link.svg": "/Saas_Animated_1/static/media/link.6a1958226b5ead508bb600cedb64d057.svg",
     "static/media/x.svg": "/Saas_Animated_1/static/media/x.3b7ad770b3a8aa076f856c3bd0b98a26.svg",
-    "main.6bdc0b18.css.map": "/Saas_Animated_1/static/css/main.6bdc0b18.css.map",
-    "main.ed4355ba.js.map": "/Saas_Animated_1/static/js/main.ed4355ba.js.map",
+    "main.a8602568.css.map": "/Saas_Animated_1/static/css/main.a8602568.css.map",
+    "main.92b25986.js.map": "/Saas_Animated_1/static/js/main.92b25986.js.map",
     "453.57a465a2.chunk.js.map": "/Saas_Animated_1/static/js/453.57a465a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bdc0b18.css",
-    "static/js/main.ed4355ba.js"
+    "static/css/main.a8602568.css",
+    "static/js/main.92b25986.js"
   ]
 }
